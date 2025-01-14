@@ -96,18 +96,19 @@ const CIS_FORM = {
     "VACCINES_RECOMMENDED": {
 
     },
-    getVaccineSlots: function(vaccineName) {
-        let slots = CIS_FORM["VACCINES_REQUIRED"][vaccineName];
-        if (slots) {
-            return { type: "required", name: vaccineName, slots: slots }
-        }
-        slots = CIS_FORM["VACCINES_RECOMMENDED"][vaccineName];
-        if (slots) {
-            return { type: "recommended", name: vaccineName, slots: slots }
-        }
+}
 
-        return null;
+function getVaccineSlots(vaccineName) {
+    let slots = CIS_FORM["VACCINES_REQUIRED"][vaccineName];
+    if (slots) {
+        return { type: "required", name: vaccineName, slots: slots }
     }
+    slots = CIS_FORM["VACCINES_RECOMMENDED"][vaccineName];
+    if (slots) {
+        return { type: "recommended", name: vaccineName, slots: slots }
+    }
+
+    return null;
 }
 
 function assert(condition, message) {

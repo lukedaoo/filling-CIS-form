@@ -1,0 +1,82 @@
+{
+  "LAST_NAME": {
+    "position": { "x": 25, "y": 500 }
+  },
+  "FIRST_NAME": {
+    "position": { "x": 240, "y": 500 }
+  },
+  "MIDDLE_INITIAL": {
+    "position": { "x": 460, "y": 500 }
+  },
+  "DOB": {
+    "position": { "x": 590, "y": 500 }
+  },
+  "VACCINES_REQUIRED": {
+    "DTAP": {
+      "slot#1": { "position": { "x": 218, "y": 340 } },
+      "slot#2": { "position": { "x": 277, "y": 340 } },
+      "slot#3": { "position": { "x": 336, "y": 340 } },
+      "slot#4": { "position": { "x": 395, "y": 340 } },
+      "slot#5": { "position": { "x": 454, "y": 340 } },
+      "slot#6": { "position": { "x": 513, "y": 340 } }
+    },
+    "TDAP": {
+      "slot#1": { "position": { "x": 218, "y": 324 } },
+      "slot#2": { "position": { "x": 277, "y": 324 } },
+      "slot#3": { "position": { "x": 336, "y": 324 } },
+      "slot#4": { "position": { "x": 395, "y": 324 } },
+      "slot#5": { "position": { "x": 454, "y": 324 } },
+      "slot#6": { "position": { "x": 513, "y": 324 } }
+    },
+    "DT": {
+      "slot#1": { "position": { "x": 218, "y": 308 } },
+      "slot#2": { "position": { "x": 277, "y": 308 } },
+      "slot#3": { "position": { "x": 336, "y": 308 } },
+      "slot#4": { "position": { "x": 395, "y": 308 } },
+      "slot#5": { "position": { "x": 454, "y": 308 } },
+      "slot#6": { "position": { "x": 513, "y": 308 } }
+    },
+    "HAPATITIS_B": {
+      "slot#1": { "position": { "x": 218, "y": 292 } },
+      "slot#2": { "position": { "x": 277, "y": 292 } },
+      "slot#3": { "position": { "x": 336, "y": 292 } },
+      "slot#4": { "position": { "x": 395, "y": 292 } },
+      "slot#5": { "position": { "x": 454, "y": 292 } },
+      "slot#6": { "position": { "x": 513, "y": 292 } }
+    },
+    "HIB": {
+      "slot#1": { "position": { "x": 218, "y": 276 } },
+      "slot#2": { "position": { "x": 277, "y": 276 } },
+      "slot#3": { "position": { "x": 336, "y": 276 } },
+      "slot#4": { "position": { "x": 395, "y": 276 } },
+      "slot#5": { "position": { "x": 454, "y": 276 } },
+      "slot#6": { "position": { "x": 513, "y": 276 } }
+    },
+    "IPV": {
+      "slot#1": { "position": { "x": 218, "y": 260 } },
+      "slot#2": { "position": { "x": 277, "y": 260 } },
+      "slot#3": { "position": { "x": 336, "y": 260 } },
+      "slot#4": { "position": { "x": 395, "y": 260 } },
+      "slot#5": { "position": { "x": 454, "y": 260 } },
+      "slot#6": { "position": { "x": 513, "y": 260 } }
+    },
+    "OPV": {
+      "slot#1": { "position": { "x": 218, "y": 240 } },
+      "slot#2": { "position": { "x": 277, "y": 240 } },
+      "slot#3": { "position": { "x": 336, "y": 240 } },
+      "slot#4": { "position": { "x": 395, "y": 240 } },
+      "slot#5": { "position": { "x": 454, "y": 240 } },
+      "slot#6": { "position": { "x": 513, "y": 240 } }
+    },
+    "MMR": {
+      "slot#1": { "position": { "x": 218, "y": 224 } },
+      "slot#2": { "position": { "x": 277, "y": 224 } },
+      "slot#3": { "position": { "x": 336, "y": 224 } },
+      "slot#4": { "position": { "x": 395, "y": 224 } },
+      "slot#5": { "position": { "x": 454, "y": 224 } },
+      "slot#6": { "position": { "x": 513, "y": 224 } }
+    },
+    "PCV/PPSV": {
+      "slot#1": { "position": { "x": 218, "y": 204 } },
+      "slot#2": { "position": { "x": 277, "y": 204 } },
+      "slot
